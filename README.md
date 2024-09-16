@@ -79,6 +79,20 @@ To recreate this study and implement the AITA, you will need access to the follo
 5. **Qualtrics Integration**:
    - Create a form to collect faculty approvals and link it to the SharePoint list.
 
+## Additional Documentation
+
+For more detailed information about specific aspects of the AI Teaching Assistant (AITA), please refer to the following documents:
+
+### [AITA PROMPT](/AITA%20PROMPT.md)
+This document contains the exact prompt used by the AI Teaching Assistant to generate weekly announcements. It provides insight into how the AI was instructed to format and structure the announcements, ensuring clarity and engagement for students.
+
+### [DATA MANAGEMENT](/DATA%20MANAGEMENT.md)
+An in-depth overview of how data is managed within the AITA system using SharePoint. This section describes the setup and use of SharePoint lists for storing announcements and tracking faculty approvals, detailing the fields used and how they integrate with Power Automate.
+
+### [REQUIREMENTS](/REQUIREMENTS.md)
+A comprehensive breakdown of the technical requirements and configurations needed to implement the AITA system. This document dives into the prerequisites, including account setups, software requirements, and detailed instructions for integrating the various components like Power Automate, OpenAI, Canvas LMS, Qualtrics, and SharePoint.
+
+
 ## Conclusion
 
 The AITA streamlines the process of generating and posting weekly announcements in online courses, contributing to enhanced instructor presence and student engagement. This project leverages Microsoft Power Automate, OpenAI's GPT-4, Canvas LMS, Qualtrics, and SharePoint to provide an efficient and scalable solution.
